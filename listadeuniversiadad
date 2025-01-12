@@ -1,0 +1,82 @@
+[
+    {
+        "NOMBRE_ESTUDIANTE": "JUAN CARLOS",
+        "APELLIDOS": "VELAZQUES ACOSTA",
+        "FECHA_MATRICULA": "2024/12/01",
+        "DIRECCION_DEL_DOMICILIO": {
+            "CIUDAD": "Cuenca",
+            "LOTE": 67,
+            "CALLE_PRINCIPAL": "Av Cardenal de la torre",
+            "CALLE_TRANSVERSAL": "Y Borgoñes"
+        },
+        "CEDULA": "187165413",
+        "CARRERA": "Ingenieria de Sistemas",
+        "NUMERO_TLF": "0998982846"
+    },
+    {
+        "NOMBRE": "MARIA RENATA",
+        "APELLIDOS": "DEL CARMEN ZAMBRANO",
+        "FECHA_MATRICULA": "2024/12/02",
+        "DIRECCION_DEL_DOMICILIO": {
+            "CIUDAD": "QUITO",
+            "LOTE": 85,
+            "CALLE_PRINCIPAL": "Av Mariscal sucre",
+            "CALLE_TRANSVERSAL": "Y Chicaña"
+        },
+        "CEDULA": "1313414515",
+        "CARRERA": "Medicina",
+        "NUMERO_TLF": "0918734933"
+    },
+    {
+        "NOMBRE": "LUIS PABLO",
+        "APELLIDOS": "MENDEZ CHAVEZ",
+        "FECHA_MATRICULA": "2019/07/29",
+        "DIRECCION_DEL_DOMICILIO": {
+            "CIUDAD": "IBARRA",
+            "LOTE": 55,
+            "CALLE_PRINCIPAL": "AV JUAN PIO",
+            "CALLE_TRANSVERSAL": "Y NARANJAL"
+        },
+        "CARRERA": "Derecho",
+        "NUMERO_TLF": "0998765439"
+    },
+    {
+        "NOMBRE": "ALEX DANIEL",
+        "APELLIDOS": "TORRES SANCHEZ",
+        "FECHA_MATRICULA": "2025/01/24",
+        "DIRECCION_DEL_DOMICILIO": {
+            "CIUDAD": "TENA",
+            "LOTE": 45,
+            "CALLE_PRINCIPAL": "AV ARGELIA",
+            "CALLE_TRANSVERSAL": "Y KLEVER VILLALVA"
+        },
+        "CARRERA": "VETERINARIA",
+        "NUMERO_TLF": "0991209559"
+    },
+    {
+        "NOMBRE": "KAREN ESTEFANIA",
+        "APELLIDOS": "PEÑARRIETA BORGOÑEZ",
+        "FECHA_MATRICULA": "2023/06/10",
+        "DIRECCION_DEL_DOMICILIO": {
+            "CIUDAD": "QUITO",
+            "LOTE": 34,
+            "CALLE_PRINCIPAL": "AV AJAVI",
+            "CALLE_TRANSVERSAL": "IEES FUT"
+        },
+        "CARRERA": "ELECTROMECANICA",
+        "NUMERO_TLF": "0900765396"
+    },
+    {
+        "NOMBRE": "CRISTIAN RODRIGO",
+        "APELLIDOS": "VERA MENDOZA",
+        "FECHA_MATRICULA": "2024/05/31",
+        "DIRECCION_DEL_DOMICILIO": {
+            "CIUDAD": "GUAYAQUIL",
+            "LOTE": 68,
+            "CALLE_PRINCIPAL": "CALLE 10 DE AGOSTO",
+            "CALLE_TRANSVERSAL": "Y COLON"
+        },
+        "CARRERA": "EDUCACION INICIAL",
+        "NUMERO_TLF": "098760707"
+    }
+]
