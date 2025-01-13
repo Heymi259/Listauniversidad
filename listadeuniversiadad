@@ -1,82 +1,114 @@
 [
-    {
-        "NOMBRE_ESTUDIANTE": "JUAN CARLOS",
-        "APELLIDOS": "VELAZQUES ACOSTA",
-        "FECHA_MATRICULA": "2024/12/01",
-        "DIRECCION_DEL_DOMICILIO": {
-            "CIUDAD": "Cuenca",
-            "LOTE": 67,
-            "CALLE_PRINCIPAL": "Av Cardenal de la torre",
-            "CALLE_TRANSVERSAL": "Y Borgoñes"
-        },
-        "CEDULA": "187165413",
-        "CARRERA": "Ingenieria de Sistemas",
-        "NUMERO_TLF": "0998982846"
-    },
-    {
-        "NOMBRE": "MARIA RENATA",
-        "APELLIDOS": "DEL CARMEN ZAMBRANO",
-        "FECHA_MATRICULA": "2024/12/02",
-        "DIRECCION_DEL_DOMICILIO": {
-            "CIUDAD": "QUITO",
-            "LOTE": 85,
-            "CALLE_PRINCIPAL": "Av Mariscal sucre",
-            "CALLE_TRANSVERSAL": "Y Chicaña"
-        },
-        "CEDULA": "1313414515",
-        "CARRERA": "Medicina",
-        "NUMERO_TLF": "0918734933"
-    },
-    {
-        "NOMBRE": "LUIS PABLO",
-        "APELLIDOS": "MENDEZ CHAVEZ",
-        "FECHA_MATRICULA": "2019/07/29",
-        "DIRECCION_DEL_DOMICILIO": {
-            "CIUDAD": "IBARRA",
-            "LOTE": 55,
-            "CALLE_PRINCIPAL": "AV JUAN PIO",
-            "CALLE_TRANSVERSAL": "Y NARANJAL"
-        },
-        "CARRERA": "Derecho",
-        "NUMERO_TLF": "0998765439"
-    },
-    {
-        "NOMBRE": "ALEX DANIEL",
-        "APELLIDOS": "TORRES SANCHEZ",
-        "FECHA_MATRICULA": "2025/01/24",
-        "DIRECCION_DEL_DOMICILIO": {
-            "CIUDAD": "TENA",
-            "LOTE": 45,
-            "CALLE_PRINCIPAL": "AV ARGELIA",
-            "CALLE_TRANSVERSAL": "Y KLEVER VILLALVA"
-        },
-        "CARRERA": "VETERINARIA",
-        "NUMERO_TLF": "0991209559"
-    },
-    {
-        "NOMBRE": "KAREN ESTEFANIA",
-        "APELLIDOS": "PEÑARRIETA BORGOÑEZ",
-        "FECHA_MATRICULA": "2023/06/10",
-        "DIRECCION_DEL_DOMICILIO": {
-            "CIUDAD": "QUITO",
-            "LOTE": 34,
-            "CALLE_PRINCIPAL": "AV AJAVI",
-            "CALLE_TRANSVERSAL": "IEES FUT"
-        },
-        "CARRERA": "ELECTROMECANICA",
-        "NUMERO_TLF": "0900765396"
-    },
-    {
-        "NOMBRE": "CRISTIAN RODRIGO",
-        "APELLIDOS": "VERA MENDOZA",
-        "FECHA_MATRICULA": "2024/05/31",
-        "DIRECCION_DEL_DOMICILIO": {
-            "CIUDAD": "GUAYAQUIL",
-            "LOTE": 68,
-            "CALLE_PRINCIPAL": "CALLE 10 DE AGOSTO",
-            "CALLE_TRANSVERSAL": "Y COLON"
-        },
-        "CARRERA": "EDUCACION INICIAL",
-        "NUMERO_TLF": "098760707"
-    }
+      {
+            "detalle": {
+                  "nombres": "JUAN CARLOS",
+                  "apellidos": "VELAZQUES ACOSTA",
+                  "fecha_matricula": "2024/12/01",
+                  "direccion": {
+                        "ciudad": "Cuenca",
+                        "lote": 67,
+                        "calle_principal": "Av Cardenal de la torre",
+                        "calle_transversal": "Y Borgo\u00c3\u00b1es"
+                  },
+                  "cedula": "187165413",
+                  "carrera": "Ingenieria de Sistemas",
+                  "numero_tlf": "0998982846"
+            }
+      },
+      {
+            "detalle": {
+                  "nombres": "MARIA RENATA",
+                  "apellidos": "DEL CARMEN ZAMBRANO",
+                  "fecha_matricula": "2024/12/02",
+                  "direccion": {
+                        "ciudad": "Quito",
+                        "lote": 85,
+                        "calle_principal": "Av Mariscal sucre",
+                        "calle_transversal": "Y Chica\u00c3\u00b1a"
+                  },
+                  "cedula": "1313414515",
+                  "carrera": "Medicina",
+                  "numero_tlf": "0918734933"
+            }
+      },
+      {
+            "detalle": {
+                  "nombres": "LUIS PABLO",
+                  "apellidos": "MENDEZ CHAVEZ",
+                  "fecha_matricula": "2019/07/29",
+                  "direccion": {
+                        "ciudad": "IBARRA",
+                        "lote": 55,
+                        "calle_principal": "AV JUAN PIO",
+                        "calle_transversal": "Y NARANJAL"
+                  },
+                  "cedula": "1234567890",
+                  "carrera": "Derecho",
+                  "numero_tlf": "0998765439"
+            }
+      },
+      {
+            "detalle": {
+                  "nombres": "ALEX DANIEL",
+                  "apellidos": "TORRES SANCHEZ",
+                  "fecha_matricula": "2025/01/24",
+                  "direccion": {
+                        "ciudad": "TENA",
+                        "lote": 45,
+                        "calle_principal": "AV ARGELIA",
+                        "calle_transversal": "Y KLEVER VILLALVA"
+                  },
+                  "cedula": "0987654321",
+                  "carrera": "VETERINARIA",
+                  "numero_tlf": "0991209559"
+            }
+      },
+      {
+            "detalle": {
+                  "nombres": "KAREN ESTEFANIA",
+                  "apellidos": "PE\u00c3\u2018ARRIETA BORGO\u00c3\u2018EZ",
+                  "fecha_matricula": "2023/06/10",
+                  "direccion": {
+                        "ciudad": "QUITO",
+                        "lote": 34,
+                        "calle_principal": "AV AJAVI",
+                        "calle_transversal": "IEES FUT"
+                  },
+                  "cedula": "1122334455",
+                  "carrera": "ELECTROMECANICA",
+                  "numero_tlf": "0900765396"
+            }
+      },
+      {
+            "detalle": {
+                  "nombres": "CRISTIAN RODRIGO",
+                  "apellidos": "VERA MENDOZA",
+                  "fecha_matricula": "2024/05/31",
+                  "direccion": {
+                        "ciudad": "GUAYAQUIL",
+                        "lote": 68,
+                        "calle_principal": "CALLE 10 DE AGOSTO",
+                        "calle_transversal": "Y COLON"
+                  },
+                  "cedula": "2233445566",
+                  "carrera": "EDUCACION INICIAL",
+                  "numero_tlf": "098760707"
+            }
+      },
+      {
+            "detalle": {
+                  "nombres": "JOSUE ALEJANDRO",
+                  "apellidos": "MEDINA LARA",
+                  "fecha_matricula": "2025/08/15",
+                  "direccion": {
+                        "ciudad": "MANTA",
+                        "lote": 55,
+                        "calle_principal": "ELOY ALFARO",
+                        "calle_transversal": "Y TARQUI"
+                  },
+                  "cedula": "3344556677",
+                  "carrera": "INGENIERIA AUTOMOTRIZ",
+                  "numero_tlf": "0981129837"
+            }
+      }
 ]
